@@ -12,7 +12,7 @@
 	<description>Demo project for Spring Boot</description>
 
 	<build>
-		<finalName>admin-core</finalName>
+		<finalName>adminCore</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
